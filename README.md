@@ -3,6 +3,12 @@
 
 Tengo 22 años y soy estudiante de Ing en Sistemas en la Universidad Tecnológica de Córdoba (UTN-FRC). Actualmente me estoy capacitando para ser Desarrollador Full Stack y ademas tengo un emprendimiento, el cual empecé a ejercer hacer 4 años. Me apasiona mucho aprender cosas nuevas y capacitarme todo el tiempo. Ademas, me gustan mucho ver peliculas o series en mi tiempo libre, asi como tambien escuchar musica mientras realizo los trabajos de la facultad.
 
+## 🙋🏻 Sobre mi
+
+- 🌹 Trabajando en mi emprendimiento **https://artchic.empretienda.com.ar/**
+- 🌱 Actualmente estoy aprendiendo sobre **Desarrollo Full Stack**
+- 📫 Escribime tu consulta **abril.funez@gmail.com**
+- 📽️ En mi tiempo libre me gusta ver series o peliculas
 
 
 ## 👩🏽‍💻 Tecnologías
